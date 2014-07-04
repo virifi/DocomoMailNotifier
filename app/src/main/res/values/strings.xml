@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DocomoMailNotifier</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="address_not_input_error">アドレスが入力されていません</string>
+    <string name="address_set_status">設定済み</string>
+    <string name="address_not_set_status">未設定</string>
+    <string name="address_not_saved_status">未保存</string>
+</resources>
