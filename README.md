@@ -1,7 +1,9 @@
 DocomoMailNotifier
 ================
 
-ドコモメールにメール着信通知を送信するアプリです。IntentによりTaskerやLlamaと連携することが可能です。	
+ドコモメールにメール着信通知を送信するアプリです。IntentによりTaskerやLlamaと連携することが可能です。
+
+[ダウンロード](releases/download/v1.0/DocomoMailNotifier_v1.0.apk)
 
 ![スクリーンショット1](images/screenshot1.png)
 
